@@ -1,0 +1,23 @@
+{
+  "name": "type-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taeksoolee/type-utils.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taeksoolee/type-utils/issues"
+  },
+  "homepage": "https://github.com/taeksoolee/type-utils#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
